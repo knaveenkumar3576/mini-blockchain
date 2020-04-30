@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/mini-block/static/css/main.d1b05096.chunk.css",
-    "main.js": "/mini-block/static/js/main.325c1572.chunk.js",
-    "main.js.map": "/mini-block/static/js/main.325c1572.chunk.js.map",
-    "runtime-main.js": "/mini-block/static/js/runtime-main.a584d850.js",
-    "runtime-main.js.map": "/mini-block/static/js/runtime-main.a584d850.js.map",
-    "static/css/2.69121389.chunk.css": "/mini-block/static/css/2.69121389.chunk.css",
-    "static/js/2.07b4e9ac.chunk.js": "/mini-block/static/js/2.07b4e9ac.chunk.js",
-    "static/js/2.07b4e9ac.chunk.js.map": "/mini-block/static/js/2.07b4e9ac.chunk.js.map",
-    "index.html": "/mini-block/index.html",
-    "precache-manifest.a0d5d4397d5da03be6af779ca9f2363c.js": "/mini-block/precache-manifest.a0d5d4397d5da03be6af779ca9f2363c.js",
-    "service-worker.js": "/mini-block/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/mini-block/static/css/2.69121389.chunk.css.map",
-    "static/css/main.d1b05096.chunk.css.map": "/mini-block/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.07b4e9ac.chunk.js.LICENSE.txt": "/mini-block/static/js/2.07b4e9ac.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/mini-block/static/media/logo.5d5d9eef.svg"
+    "main.css": "/mini-blockchain/static/css/main.d1b05096.chunk.css",
+    "main.js": "/mini-blockchain/static/js/main.4924e5e7.chunk.js",
+    "main.js.map": "/mini-blockchain/static/js/main.4924e5e7.chunk.js.map",
+    "runtime-main.js": "/mini-blockchain/static/js/runtime-main.6952bed7.js",
+    "runtime-main.js.map": "/mini-blockchain/static/js/runtime-main.6952bed7.js.map",
+    "static/css/2.69121389.chunk.css": "/mini-blockchain/static/css/2.69121389.chunk.css",
+    "static/js/2.07b4e9ac.chunk.js": "/mini-blockchain/static/js/2.07b4e9ac.chunk.js",
+    "static/js/2.07b4e9ac.chunk.js.map": "/mini-blockchain/static/js/2.07b4e9ac.chunk.js.map",
+    "index.html": "/mini-blockchain/index.html",
+    "precache-manifest.32b39528cde11bbcb3d968f4a81b44e0.js": "/mini-blockchain/precache-manifest.32b39528cde11bbcb3d968f4a81b44e0.js",
+    "service-worker.js": "/mini-blockchain/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/mini-blockchain/static/css/2.69121389.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/mini-blockchain/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.07b4e9ac.chunk.js.LICENSE.txt": "/mini-blockchain/static/js/2.07b4e9ac.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mini-blockchain/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a584d850.js",
+    "static/js/runtime-main.6952bed7.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.07b4e9ac.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.325c1572.chunk.js"
+    "static/js/main.4924e5e7.chunk.js"
   ]
 }
