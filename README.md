@@ -1,6 +1,6 @@
 # Mini Block Chain
 
-The application alslows you to search a Block using the search and also a button to fetch the latest block. Once a block is selected then all th details about the block is on the 'Block Details' card and all the transcations corresponsding to the particular block is shown on the 'Transaction Details'.
+The application allows you to search a Block using the search bar where you need to provide the hash of the block. Also you can use the  button Get Latest block to fetch the details of the recent block. Once a block is selected then all the details about the block is on the 'Block Details' card and all the transcations corresponding to the particular block is shown on the 'Transaction Details'. You can trace the existing block using the button Trace previous button which will fetch all the information about the previous block and. In the 'Transaction Details', you can use the buttons to navigate through all the transcations in the block.
 
 ## How to Run
 Clone the project and unzip the files.
