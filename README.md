@@ -16,6 +16,3 @@ Go to http://localhost:3000/. The application should load the subreddits at the 
 ## Built With
 
 * [React]https://reactjs.org/
-
-## Live 
-http://knaveenkumar3576.github.io/mini-bc

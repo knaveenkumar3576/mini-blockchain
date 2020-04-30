@@ -39,7 +39,6 @@ const Home = () => {
                 <Col>
                     <SearchBlock
                         handleSearch = {setBlock}
-                        selectedBlock = {selectedBlock}
                         toggleLatestBlock = {toggleLatestBlock}
                     />
                 </Col>

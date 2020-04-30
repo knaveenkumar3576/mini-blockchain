@@ -1,7 +1,7 @@
 import React from 'react'
 import {Form, Button} from 'react-bootstrap'
 
-const SearchBlock = ({handleSearch, selectedBlock, toggleLatestBlock}) => {
+const SearchBlock = ({handleSearch, toggleLatestBlock}) => {
 
     let searchRef = React.createRef();
 
